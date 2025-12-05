@@ -1,4 +1,4 @@
 flagged/
-
+gradio/
 db_embeddings.npy
 db_textos.pkl
